@@ -30,7 +30,7 @@
         })
         .then(json => {
           for (var i = 0; i < json.length; i++) {
-            j.push([json[i]])
+            j.push([`${json[i]}`])
           }
           console.log('json', j)
           main()
@@ -41,7 +41,13 @@
 
       function main () {
         new gridjs.Grid({
-          columns: ['Bookmark'],
+          columns: [
+            {
+              name: 'name',
+              formatter: cell =>
+                gridjs.html(`<a href="${cell}" target="_blank">${cell}</a>`)
+            }
+          ],
           search: true,
           data: j
         }).render(document.getElementById('wrapper'))
