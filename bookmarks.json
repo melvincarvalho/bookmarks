@@ -41,7 +41,12 @@
   },
   {
     "source": "https://melvincarvalho.com/#me",
-    "destination": " https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting",
+    "destination": "https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https://dev.to/thenomadevel/top-10-websites-to-find-remote-jobs-f7i",
     "@type": "Bookmark"
   }
 ]
