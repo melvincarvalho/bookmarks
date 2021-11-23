@@ -1,10 +1,42 @@
 [
-  "https://tailwindlayout.lalokalabs.dev/ui/stacked-card/",
-  "https://python.plainenglish.io/lets-automate-a-boring-task-with-python-and-github-actions-2675132289da",
-  "https://dev.to/sagarbarapatre/how-to-become-a-git-expert-1jl2",
-  "https://github.com/elfshaker/elfshaker",
-  "https://relay.firefox.com/",
-  "https://gitern.com/",
-  "https://www.freecodecamp.org/news/what-is-infrastructure-as-code/",
-  "https://github.com/satoshilabs/slips/blob/master/slip-0010.md"
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //tailwindlayout.lalokalabs.dev/ui/stacked-card/",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //python.plainenglish.io/lets-automate-a-boring-task-with-python-and-github-actions-2675132289da",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //dev.to/sagarbarapatre/how-to-become-a-git-expert-1jl2",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //github.com/elfshaker/elfshaker",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //relay.firefox.com/",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //gitern.com/",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //www.freecodecamp.org/news/what-is-infrastructure-as-code/",
+    "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https: //github.com/satoshilabs/slips/blob/master/slip-0010.md",
+    "@type": "Bookmark"
+  }
 ]
