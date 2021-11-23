@@ -53,5 +53,11 @@
     "source": "https://melvincarvalho.com/#me",
     "destination": "https://github.com/ahmetb/twitter-audit-log",
     "@type": "Bookmark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https://github.com/ahmetb/twitter-audit-log",
+    "amount": "100",
+    "@type": "Mark"
   }
 ]
