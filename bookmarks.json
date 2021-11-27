@@ -83,5 +83,11 @@
     "destination": "https://github.com/jesseduffield/lazygit",
     "amount": "100",
     "@type": "Mark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https://medium.com/@kidehen/simple-linked-data-deployment-tutorial-using-json-ld-notation-3e753a5d44a3",
+    "amount": "100",
+    "@type": "Mark"
   }
 ]
