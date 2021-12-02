@@ -107,5 +107,11 @@
     "destination": "https://blog.asciinema.org/post/smaller-faster/",
     "amount": "100",
     "@type": "Mark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https://blog.tomat0.me/copyleft-curator/fediverse-spotlight-6-botsin-space",
+    "amount": "100",
+    "@type": "Mark"
   }
 ]
