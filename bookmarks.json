@@ -119,5 +119,11 @@
     "destination": "https://rekt.news/",
     "amount": "100",
     "@type": "Mark"
+  },
+  {
+    "source": "https://melvincarvalho.com/#me",
+    "destination": "https://github.com/qbit/widdler",
+    "amount": "100",
+    "@type": "Mark"
   }
 ]
